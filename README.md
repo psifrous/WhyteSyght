@@ -26,7 +26,7 @@ Node-MCU
 Tenserflow <br> Open <br> CV<br> OS<br> Numpy <br>sys 
 
 # Developers
-Naman Bansal
-Harsh Kataria
-Ambuje Gupta
-Swapnil Panwala
+Naman Bansal<br>
+Harsh Kataria<br>
+Ambuje Gupta<br>
+Swapnil Panwala<br>
